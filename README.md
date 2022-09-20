@@ -9,7 +9,7 @@
 - rm -rf /docker_projects/sbdb_1/project
 - mkdir -p /docker_projects/sbdb_1/project
 - cd /docker_projects/sbdb_1/project
-- git clone https://github.com/jhs512/app20220916_3 .
+- git clone https://github.com/NeoGuRi95/SpringBoot-Linux
 - chmod 744 ./gradlew
 
 ## 그래들 빌드
