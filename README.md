@@ -26,11 +26,11 @@
 - docker build -t sbdb .
 
 ## sbdb 이미지 실행
-docker run \\
---name=sbdb_1 \\
--p 8080:8080 \\
--v /docker_projects/sbdb_1/volumes/gen:/gen \\
---restart unless-stopped \\
--e TZ=Asia/Seoul \\
--d \\
+docker run \\\
+--name=sbdb_1 \\\
+-p 8080:8080 \\\
+-v /docker_projects/sbdb_1/volumes/gen:/gen \\\
+--restart unless-stopped \\\
+-e TZ=Asia/Seoul \\\
+-d \\\
 sbdb
