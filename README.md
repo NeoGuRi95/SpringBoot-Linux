@@ -1,7 +1,7 @@
 # SpringBoot-Linux
 리눅스 환경에서 스프링 부트 실습
 
-# 서버배포/운영
+# 서버배포/운영 방법
 ## 프로젝트 폴더 경로
 - /docker_projects/sbdb_1/project
 
