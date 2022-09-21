@@ -1,6 +1,7 @@
 # SpringBoot-Linux
 - 리눅스 환경(centOS)에서 스프링 부트 실습
 - 젠킨스 연결
+  - pipeline 방식
 
 # 서버배포/운영 방법
 ## 프로젝트 폴더 경로
