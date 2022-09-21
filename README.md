@@ -1,5 +1,7 @@
 # SpringBoot-Linux
 - 리눅스 환경(centOS)에서 스프링 부트 실습
+- 도커 설치
+  - mariaDB 설치 / 젠킨스 설치
 - 젠킨스 연결
   - pipeline 방식
 
